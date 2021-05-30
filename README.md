@@ -21,6 +21,7 @@
 
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
@@ -36,6 +37,8 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Mongo" width="26px" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+
 
 <br/>
 <br/>
@@ -55,6 +58,8 @@
 ### IDES
 
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br/>
@@ -69,17 +74,6 @@
 
 <br/>
 <br/>
-
-<!-- <div style="text-align:center;">
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=radical)
-
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9960450&theme=dark)](https://stackoverflow.com/users/9960450/dinush-chathurya)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya) -->
-
- <!-- 📊 **This week I spent my time on**
-
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=dinushchathurya&hide_title=true&hide_border=true&langs_count=5) -->
 
 
 
@@ -101,17 +95,3 @@
  
 </div>
 
-<!-- <details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" />
-
-</details>
-
-
-<details>
-  <summary>:zap: Top Languages</summary>
-
-  <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
-
-</details> -->
