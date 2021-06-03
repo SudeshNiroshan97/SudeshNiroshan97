@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Sudesh Ladusinghe</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Sudesh Ladusinghe</h1>
 <h3 align="center">I'm Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeshniroshan97&label=Profile%20views&color=0e75b6&style=flat" alt="sudeshniroshan97" /> </p>
