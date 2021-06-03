@@ -25,6 +25,8 @@
 <a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap" ></a>
 <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white" ></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23000000.svg?logo=java&logoColor=white" ></a>
+<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-%23000000.svg?logo=android&logoColor=white" ></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white" ></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" ></a>
 
