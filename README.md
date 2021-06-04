@@ -53,6 +53,7 @@
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="FIREBASE" src="https://img.shields.io/badge/Firebase-007ACC?&logo=firebase" ></a>
 
+
 ---
 
 
@@ -87,6 +88,7 @@
 ### OS
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" ></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23575757.svg?&logo=linux&logoColor=important"></a>
 
 ---
 
