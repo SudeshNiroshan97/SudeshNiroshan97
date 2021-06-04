@@ -92,8 +92,9 @@
 
 ### Browsers
 
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Google_chrome-4285F4?&logo=Google-chrome&logoColor=white" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Opera-FF1B2D?&logo=Opera&logoColor=white" ></a>
+<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?&logo=Google-chrome&logoColor=white" ></a>
+<a href="#"><img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?&logo=Opera&logoColor=white" ></a>
+<a href="#"><img alt="Firefox" src="https://img.shields.io/badge/Mozilla_Firefox%20-%23F7DF1E.svg?logo=Firefox&logoColor=black" ></a>
 
 ---
 
