@@ -68,7 +68,7 @@
 ### DevOps
 
 
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Docker-black?&logo=docker"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-black?&logo=docker"></a>
 
 ---
 
