@@ -43,7 +43,7 @@
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Ionic-3880FF?&logo=ionic&logoColor=white" ></a>
 <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-38B2AC?&logo=flutter&logoColor=white" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
+<a href="#"><img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
 <a href="#"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot%20-%2343853D.svg?logo=spring&logoColor=white" ></a>
 
 ---
