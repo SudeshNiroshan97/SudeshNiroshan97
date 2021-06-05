@@ -37,9 +37,9 @@
 
 ### Frameworks
 
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a>
+<a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
+<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a>
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Ionic-3880FF?&logo=ionic&logoColor=white" ></a>
 <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-38B2AC?&logo=flutter&logoColor=white" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
@@ -77,6 +77,7 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&logo=sublime-text&logoColor=important"></a>
+<a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij Idea-DD0031?&logo=intellij-idea&logoColor=white" ></a>
 
 ---
 
