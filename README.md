@@ -75,7 +75,7 @@
 ### IDES
 
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=white"></a>
+<a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&logo=sublime-text&logoColor=important"></a>
 <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij Idea-DD0031?&logo=intellij-idea&logoColor=white" ></a>
 
