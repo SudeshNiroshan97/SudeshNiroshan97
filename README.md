@@ -32,6 +32,7 @@
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/android-009639?&logo=android&logoColor=whitet"></a> 
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white" ></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" ></a>
+<a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-Csharp-563D7C?&logo=c#" ></a>
 
 ---
 
