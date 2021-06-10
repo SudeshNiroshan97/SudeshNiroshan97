@@ -129,7 +129,8 @@
   <img align="left" alt="Sudesh Ladusinghe Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudeshniroshan97&count_private=true&show_icons=true&theme=algolia" />
   </details>
 
+  <details>
     <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshniroshan97&theme=algolia&langs_count=15&layout=compact" />
- 
+  </details>
 </div>
 
