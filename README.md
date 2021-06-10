@@ -130,6 +130,9 @@
   </details>
 
   <details>
+  <summary>&#11088 Language Stats</summary>
+  <br><br>
+ 
     <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshniroshan97&theme=algolia&langs_count=15&layout=compact" />
   </details>
 </div>
