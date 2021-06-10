@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **i love to coding & singing**
 
+
+<p><img align="right" alt="GIF" src="https://github.com/SudeshNiroshan97/SudeshNiroshan97/blob/main/typing.gif" width="500" height="350" /></p>
+
 ### Languages 
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" ></a>
