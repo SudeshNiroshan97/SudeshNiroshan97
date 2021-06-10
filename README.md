@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/sladusinghe" target="blank"><img src="https://img.shields.io/twitter/follow/sladusinghe?logo=twitter&style=for-the-badge" alt="sladusinghe" /></a> </p>
 
+<p><img align="right" alt="GIF" src="https://github.com/SudeshNiroshan97/SudeshNiroshan97/blob/main/typing.gif" width="500" height="350" /></p>
+
 - 🔭 I’m currently working on [Online Water Board Application](https://github.com/SudeshNiroshan97/Online-Water-Board-App)
 
 - 🌱 I’m currently learning **everything 😊**
@@ -19,8 +21,6 @@
 
 - ⚡ Fun fact **i love to coding & singing**
 
-
-<p><img align="right" alt="GIF" src="https://github.com/SudeshNiroshan97/SudeshNiroshan97/blob/main/typing.gif" width="500" height="350" /></p>
 
 ### Languages 
 
