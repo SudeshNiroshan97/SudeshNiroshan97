@@ -127,7 +127,7 @@
 <details>
   <summary>📊 Github Stats</summary>
 <br><br>
-  <img alt="Sudesh  Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudeshniroshan97&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
+  <img alt="Sudesh  Stats" src="https://github-readme-stats.vercel.app/api?username=sudeshniroshan97&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
 </details>
 
 <details>
