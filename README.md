@@ -118,9 +118,9 @@
 
 ### Connect with me
 
-[<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://m.facebook.com/sudesh.ladusinghe)
-[<img src="https://img.icons8.com/fluent/25/000000/twitter.png"/>](https://twitter.com/SLadusinghe)
-[<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/SudeshLadusinghe)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white"/>](https://m.facebook.com/shane.silva)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/SLadusinghe)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/sudeshladusinghe)
 
 ---
 
