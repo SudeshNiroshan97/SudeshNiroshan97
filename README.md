@@ -118,7 +118,7 @@
 
 ### Connect with me
 
-[<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://m.facebook.com/SudeshLadusinghe)
+[<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://m.facebook.com/sudesh.ladusinghe)
 [<img src="https://img.icons8.com/fluent/25/000000/twitter.png"/>](https://twitter.com/SLadusinghe)
 [<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/SudeshLadusinghe)
 
