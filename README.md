@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Sudesh Ladusinghe</h1>
-<a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-Cs 
+<a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-C 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Youtuber;Content+Creator;)](https://git.io/typing-svg)
 
