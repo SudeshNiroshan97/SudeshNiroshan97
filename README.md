@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Sudesh Ladhusinghe</h1>
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Sudesh Ladhu
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Sude
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Youtuber;Content+Creator;)](https://git.io/typing-svg)
 
